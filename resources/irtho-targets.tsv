@@ -1,4 +1,4 @@
-genome	gene	chrom	start	end	type	desc	transcript	codon
+genome	gene	contig	start	end	type	desc	transcript	codon
 AgambiaePEST	AGAP004707	AgamP4_2L	2422651	2422652	neural	Vgsc-L995F	AGAP004707-RD	995
 AgambiaePEST	AGAP004707	AgamP4_2L	2422650	2422651	neural	Vgsc-L995S	AGAP004707-RD	995
 AgambiaePEST	AGAP004707	AgamP4_2L	2391227	2391228	neural	Vgsc-V402L	AGAP004707-RD	402
